@@ -1,0 +1,71 @@
+body { 
+    font-family: Arial; 
+    background-color: lightblue; 
+    text-align: center;
+}
+
+nav {
+    margin: 20px;
+}
+nav a { 
+    margin: 10px; 
+    text-decoration: none; 
+    color: blue; 
+    font-weight: bold; 
+    display: inline-block; 
+    padding: 8px 12px;
+}
+nav a:hover {
+    background: white;
+    border-radius: 5px;
+}
+
+ul {
+    list-style-type: none; /* removes bullets */
+    padding: 0;           /* removes left padding */
+    margin: 0;            /* removes default margin */
+}
+
+
+.box { 
+    background: white; 
+    padding: 20px; 
+    margin: 20px auto; 
+    width: 60%; 
+    border-radius: 10px;
+}
+
+
+table { 
+    margin: auto; 
+    border-collapse: collapse; 
+}
+td, th { 
+    border: 1px solid #333; 
+    padding: 10px; 
+}
+
+
+.gallery img { 
+    width: 300px; 
+    height: 300px; 
+    margin: 10px; 
+    border-radius: 10px; 
+}
+
+
+
+
+
+form { 
+    background: lightskyblue; 
+    padding: 20px; 
+    width: 300px; 
+    margin: auto; 
+    border-radius: 10px; 
+}
+input, textarea { 
+    width: 90%; 
+    margin: 5px; 
+    padding: 10px; 
+}
