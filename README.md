@@ -33,20 +33,20 @@ It showcases my personal profile, hobbies, skills, and contact information in a 
 
 ##  Folder Structure
 -LAB2/
-├── index.html
-├── contact.html
-├── Hobbies.html
-├── PersonalSkills.html
-├── images.html
-├── css/
-│ └── style.css
-└── images/
-├── 20-facts-might-know-tangled.webp
-├── 960x0.webp
-├── images (1).jpg
-├── images (2).jpg
-├── images (3).jpg
-└── images.jpg
+-├── index.html
+-├── contact.html
+-├── Hobbies.html
+-├── PersonalSkills.html
+-├── images.html
+-├── css/
+-│ └── style.css
+-└── images/
+-├── 20-facts-might-know-tangled.webp
+-├── 960x0.webp
+-├── images (1).jpg
+-├── images (2).jpg
+-├── images (3).jpg
+-└── images.jpg
 ---
 
 
